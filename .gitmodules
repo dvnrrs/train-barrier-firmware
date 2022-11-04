@@ -1,0 +1,6 @@
+[submodule "esp-plus-plus"]
+	path = components/esp-plus-plus
+	url = https://github.com/dvnrrs/esp-plus-plus
+[submodule "components/freertospp"]
+	path = components/freertospp
+	url = https://github.com/dvnrrs/freertospp
